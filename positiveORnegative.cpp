@@ -3,7 +3,7 @@ using namespace std;
 int main(int argc, char const *argv[])
 {	
 	int a;
-	cout<<Enter your number
+	cout<<"Enter your number";
 	cin>>a;
 	if (a>0)
 	{
@@ -16,7 +16,7 @@ int main(int argc, char const *argv[])
 	}
 	else
 	{
-		cout<<"Zero"
+		cout<<"Zero";
 	}
 	return 0;
 }
