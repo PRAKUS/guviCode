@@ -6,7 +6,7 @@ import java.lang.*;
  *
  * @author Pramod
  */
-public class factorial {
+public class Codkata {
 
     /**
      * @param args the command line arguments
