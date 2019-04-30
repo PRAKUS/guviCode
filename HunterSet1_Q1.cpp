@@ -5,6 +5,7 @@ using namespace std;
 int main()
 {
     string input;
+    cin>>input;
     char data[input.length()];
     for (int i=0;i<=input.length();i++)
     {
